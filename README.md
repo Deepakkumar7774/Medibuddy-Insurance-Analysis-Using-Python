@@ -5,7 +5,9 @@
 
 MediBuddy is a digital healthcare platform for an inpatient hospitalization, outpatient services, and corporate wellness benefits. MediBuddy is the award-winning technology platform from Medi Assist that transforms the health insurance industry at the very core. MediBuddy, with its diverse offerings for various stakeholders of the health benefits industry, makes the process of discovering, accessing, utilizing, and monitoring health benefits seamless, real-time, and virtually paperless. The company was founded in 2000 and based in Bangalore, Karnataka, India.
 In the assignment below, there are two datasets, one having the age and BMI(Body Mass Index) that is received from a pre health checkup before the policy cover; and the other dataset includes some personal details such as the no. of children, whether the person smokes or not, the location where the person is from etc. 
-MediBuddy is a digital healthcare platform that provides **inpatient hospitalization, outpatient services, and corporate wellness benefits**. It aims to make health benefits **seamless, real-time, and paperless**.
+
+MediBuddy is a digital healthcare platform that provides **inpatient hospitalization, outpatient services, and corporate wellness benefits**. 
+It aims to make health benefits **seamless, real-time, and paperless**.
 
 This project involves **analyzing two datasets** related to health insurance claims and policyholders to derive insights that can assist in decision-making.
 
@@ -36,7 +38,9 @@ Each of these questions is explored using **Python, Pandas, NumPy, and visualiza
 
 
 ## 📊 Python-Based Analysis
+
 ### **Techniques Used:**
+
 ✔ **Data Cleaning & Preparation** – Handling missing values and formatting data.  
 ✔ **Exploratory Data Analysis (EDA)** – Identifying trends and patterns.  
 ✔ **Statistical Insights** – Using correlation analysis and visualization.  
@@ -55,6 +59,50 @@ Each of these questions is explored using **Python, Pandas, NumPy, and visualiza
 
 
 
+## 📄 Full Analysis
+
+You can view the complete Jupyter Notebook here:  
+
+📌 [**Medibuddy_Project.ipynb**](./Medibuddy_Project.ipynb)
+
+
+
+## 📊 Key Insights from Data Analysis
+
+### **1️⃣ Gender & Policy Extension**
+🔹 **Insight:** There is no significant difference between male and female policyholders in terms of claim approvals.  
+🔹 **Action:** The company should **not use gender as a constraint** in extending policies.  
+
+### **2️⃣ Average Amount Spent per Policy Cover**
+🔹 **Insight:** The average claim amount varies based on factors like **age, BMI, and smoking status**.  
+🔹 **Action:** Adjust premium calculations based on individual risk profiles rather than a flat-rate policy.  
+
+### **3️⃣ Impact of Geographic Location on Policies**
+🔹 **Insight:** Certain locations had **higher claim rates** than others, possibly due to regional health risks or medical costs.  
+🔹 **Action:** The company may consider **location-based risk adjustments** for pricing policies.  
+
+### **4️⃣ Dependents & Insurance Claims**
+🔹 **Insight:** A higher number of dependents **increased the claim amount**.  
+🔹 **Action:** Introduce **family plans** with different pricing for policyholders with dependents.  
+
+### **5️⃣ BMI & Insurance Claims**
+🔹 **Insight:** Individuals with a **higher BMI** generally **claimed more insurance** due to higher health risks.  
+🔹 **Action:** Consider **BMI-based risk adjustments** in policy pricing.  
+
+### **6️⃣ Smoking & Insurance Coverage**
+🔹 **Insight:** **Smokers had significantly higher claims** compared to non-smokers.  
+🔹 **Action:** The company should **differentiate policies** for smokers and offer higher premiums for high-risk individuals.  
+
+### **7️⃣ Age & Claim Amount**
+🔹 **Insight:** **Older individuals** tend to have **higher claims** due to age-related medical conditions.  
+🔹 **Action:** Consider **age-based policy structures** to balance risk and affordability.  
+
+### **8️⃣ BMI & Discounts**
+🔹 **Insight:** Policyholders with a **healthy BMI** have **lower claim amounts**, indicating better health.  
+🔹 **Action:** The company could **offer premium discounts** for policyholders with a lower BMI as an incentive.  
+
+
+
 ## 📥 Access the Assignment
 
 You can view the **full assignment details** by clicking below:
@@ -64,4 +112,4 @@ You can view the **full assignment details** by clicking below:
 
 **📢 Conclusion**
 
-This project provides valuable insights into insurance policy decision-making using Python-based data analysis.
+This project provides valuable insights into insurance policy decision-making using Python-based data analysis. The findings suggest that factors like BMI, smoking status, age, and location significantly impact claims and should be considered in pricing and policy structuring.
