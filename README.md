@@ -123,6 +123,7 @@ You can view the **full assignment details** by clicking below:
 
 **💡 Business Impact & Recommendations**
 
+
 🔹 Risk-Based Premium Pricing – Adjust premiums based on factors like BMI, smoking status, and location.
 🔹 Geographic Policy Customization – Offer region-specific pricing based on claim patterns.
 🔹 Health-Based Discounts – Incentivize customers with healthy BMIs and non-smoking habits.
@@ -133,5 +134,6 @@ By leveraging data analytics, insurance companies can create better, fairer poli
 
 
 **📢 Conclusion**
+
 
 This project provides valuable insights into insurance policy decision-making using Python-based data analysis. The findings suggest that factors like BMI, smoking status, age, and location significantly impact claims and should be considered in pricing and policy structuring.
