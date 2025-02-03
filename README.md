@@ -37,6 +37,16 @@ This project aims to answer the following key questions using **Python-based ana
 Each of these questions is explored using **Python, Pandas, NumPy, and visualization tools like Matplotlib and Seaborn**.
 
 
+
+**⚙️ Tools & Technologies Used**
+
+✅ Python for data analysis
+✅ Pandas & NumPy for data cleaning & statistical calculations
+✅ Seaborn & Matplotlib for data visualization
+✅ Jupyter Notebook for interactive analysis
+
+
+
 ## 📊 Python-Based Analysis
 
 ### **Techniques Used:**
@@ -108,6 +118,18 @@ You can view the complete Jupyter Notebook here:
 You can view the **full assignment details** by clicking below:
 
 📄 [**View Assignment PDF**](https://acrobat.adobe.com/id/urn:aaid:sc:AP:cce31452-5dc9-4f6a-a9cd-da364f1cd142)
+
+
+
+**💡 Business Impact & Recommendations**
+
+🔹 Risk-Based Premium Pricing – Adjust premiums based on factors like BMI, smoking status, and location.
+🔹 Geographic Policy Customization – Offer region-specific pricing based on claim patterns.
+🔹 Health-Based Discounts – Incentivize customers with healthy BMIs and non-smoking habits.
+🔹 Senior Citizen Plans – Introduce specialized policies for elderly policyholders.
+
+By leveraging data analytics, insurance companies can create better, fairer policies while maintaining profitability and risk control.
+
 
 
 **📢 Conclusion**
