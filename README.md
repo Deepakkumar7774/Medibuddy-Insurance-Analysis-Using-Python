@@ -148,6 +148,6 @@ Interested in discussing data analytics, diversity, or this project? Feel free t
 
 🔗 https://www.linkedin.com/in/deepakkumar7774
 
-🌐 https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-Using-Python
+🌐 https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python
 
 **Let’s work together to create data-driven solutions that make a difference! 🌟**
