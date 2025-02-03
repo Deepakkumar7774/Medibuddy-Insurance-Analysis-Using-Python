@@ -137,3 +137,17 @@ By leveraging data analytics, insurance companies can create better, fairer poli
 
 
 This project provides valuable insights into insurance policy decision-making using Python-based data analysis. The findings suggest that factors like BMI, smoking status, age, and location significantly impact claims and should be considered in pricing and policy structuring.
+
+
+
+**📌 Let’s Connect**
+
+Interested in discussing data analytics, diversity, or this project? Feel free to reach out!
+
+📧 deepakkumarsingh7774@gmail.com
+
+🔗 https://www.linkedin.com/in/deepakkumar7774
+
+🌐 https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-Using-Python
+
+**Let’s work together to create data-driven solutions that make a difference! 🌟**
