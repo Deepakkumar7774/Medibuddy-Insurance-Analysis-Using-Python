@@ -59,7 +59,7 @@ Each of these questions is explored using **Python, Pandas, NumPy, and visualiza
 
 You can view the **full assignment details** by clicking below:
 
-📄 [**View Assignment PDF**]('https://acrobat.adobe.com/id/urn:aaid:sc:AP:cce31452-5dc9-4f6a-a9cd-da364f1cd142')
+📄 [**View Assignment PDF**](https://acrobat.adobe.com/id/urn:aaid:sc:AP:cce31452-5dc9-4f6a-a9cd-da364f1cd142)
 
 
 **📢 Conclusion**
